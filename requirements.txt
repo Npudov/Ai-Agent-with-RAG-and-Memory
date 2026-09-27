@@ -1,0 +1,8 @@
+requests 
+pydantic 
+python-dotenv 
+pandas 
+matplotlib 
+numpy 
+pymilvus 
+pypdf
